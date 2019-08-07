@@ -1,4 +1,4 @@
-touch .dockerignore
+
 
 node_modules
 .git
